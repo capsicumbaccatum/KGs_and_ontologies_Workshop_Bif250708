@@ -1,0 +1,8 @@
+PREFIX voc: <https://swapi.co/vocabulary/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+
+SELECT * {
+    <https://swapi.co/resource/human/1> voc:film ?movie .
+    ?movie rdfs:label ?movieName ;
+           voc:releaseDate ?movieReleaseDate .
+} ORDER BY ?movieReleaseDate
