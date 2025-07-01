@@ -79,6 +79,8 @@ Example dataset: https://platform.ontotext.com/semantic-objects/_downloads/20439
 
 ![image](https://github.com/user-attachments/assets/69d11f44-9507-460c-b4f5-4e3c313c24fb)
 
+Alternatively, you can of course upload the original Starwars RDF file, if the export via Webprotege has failed.
+
 ## 4. Explore visual graph 
 
 ### -  How many subclasses are assigned to 'Reptilian'?
@@ -87,4 +89,14 @@ Example dataset: https://platform.ontotext.com/semantic-objects/_downloads/20439
 
 ### - Does 'Yodaspecies' belong to the class of 'Sentinents'?
 
+
+
+
+___________________________________
+# End
+
+
+
+
+![image](https://github.com/user-attachments/assets/b3c4a23f-9420-4567-99c5-022d942760ed)
 
