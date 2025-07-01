@@ -81,10 +81,10 @@ Example dataset: https://platform.ontotext.com/semantic-objects/_downloads/20439
 
 ## 4. Explore visual graph 
 
-### -  How many subclasses are assigned to “Reptilian”?
+### -  How many subclasses are assigned to 'Reptilian'?
 
-### - Which class does “Xexto” belong to?
+### - Which class does 'Xexto' belong to?
 
-### - Does “Yodaspecies” belong to the class of “Sentinents”?
+### - Does 'Yodaspecies' belong to the class of 'Sentinents'?
 
 
