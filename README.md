@@ -83,7 +83,7 @@ Alternatively, you can of course upload the original Starwars RDF file, if the e
 
 ## 4. Explore visual graph 
 
-### -  How many subclasses are assigned to 'Reptilian'?
+### - How many subclasses are assigned to 'Reptilian'?
 
 ### - Which class does 'Xexto' belong to?
 
