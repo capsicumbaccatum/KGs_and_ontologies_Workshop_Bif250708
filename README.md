@@ -68,7 +68,8 @@ ___________________________________________________________________
 - GraphDB website: https://graphdb.ontotext.com/
 - GraphDB documentation: https://graphdb.ontotext.com/documentation/11.0/
 - Download (free) GraphDB version (scroll down to the end): https://www.ontotext.com/products/graphdb/
-- 
+
+  
 
 ## 1. Request FREE license from GraphDB with your WUR email (takes about 1 minute)
 
@@ -87,11 +88,11 @@ Alternatively, you can of course upload the original Starwars RDF file, if the e
 
 ## 4. Explore visual graph 
 
-### - How many subclasses are assigned to 'Reptilian'?
+ - How many subclasses are assigned to 'Reptilian'?
 
-### - Which class does 'Xexto' belong to?
+ - Which class does 'Xexto' belong to?
 
-### - Does 'Yodaspecies' belong to the class of 'Sentinents'?
+ - Does 'Yodaspecies' belong to the class of 'Sentinents'?
 
 
 
