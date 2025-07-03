@@ -1,0 +1,55 @@
+# Links and resources on Knowledge-graphs and ontologies
+
+# Examples shared in the presentation
+
+
+- Gitlab: Open course material (by WUR Synthetic and Systems Biology) on KGs & Linked Data
+https://wur.gitlab.io/linkeddata/docs/day_2/day_2_practical2.html
+
+- W3C wiki including information on e.g., KGs in general, OWL, linked data, FAIR principles, semantics, etc.
+https://www.w3.org/wiki/Main_Page
+W3D linked data policy: https://www.w3.org/DesignIssues/LinkedData.html
+
+- Experimental Natural Products Knowledge Graph (ENPKG) on Github
+https://github.com/enpkg/enpkg_full/tree/main
+
+- Information on Wikidata
+List of properties: https://www.wikidata.org/wiki/Special:ListProperties
+Or: https://www.wikidata.org/wiki/Wikidata:Database_reports/List_of_properties/all
+
+- LOTUS example SPARQL queries
+https://lotus.nprod.net/lotus-queries/
+- LOTUS manuscript including some nice example applications of SPARQL qeries
+https://lotusnprod.github.io/lotus-manuscript/
+
+- Simple standard for sharing ontological mappings
+https://mapping-commons.github.io/sssom/
+
+## SPARQL endpoints and examples
+
+- SPARQL endpoints
+  - Uniprot: https://sparql.uniprot.org/
+  - EMBL-EBI: (Outdated tutorial) https://linkedwiki.com/query/example_with_EMBL-EBI
+  - Ortho-DB: https://sparql.orthodb.org/
+  - OMA-DB: https://sparql.omabrowser.org/lode/sparql
+  - Rhea: https://sparql.rhea-db.org/
+  - MetaNetX: https://rdf.metanetx.org/
+  - General Wikidata endpoint: https://query.wikidata.org
+
+- SPARQL Python package
+https://pypi.org/project/qlever/
+https://github.com/ad-freiburg/qlever-control
+https://osm2rdf.cs.uni-freiburg.de/
+
+- More SPAQL examples
+  - https://github.com/Adafede/sparql-examples
+  - https://adafede.github.io/my-queries/
+  - https://www.wikidata.org/wiki/Wikidata:WikiProject_Chemistry/Natural_products
+  - https://www.researchgate.net/publication/303834370_Advanced_SPARQL_querying_in_small_molecule_databases
+
+## Other linked data platforms
+
+- Bioportal: https://bioportal.bioontology.org/
+- Lod Cloud: https://lod-cloud.net/
+
+
