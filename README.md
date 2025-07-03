@@ -94,6 +94,11 @@ Alternatively, you can of course upload the original Starwars RDF file, if the e
 
  - Does 'Yodaspecies' belong to the class of 'Sentinents'?
 
+## 5. Query your graph via SPARQL
+
+
+![image](https://github.com/user-attachments/assets/5f61183b-7ac4-47c7-a698-fbac6a7a93ed)
+
 
 
 
