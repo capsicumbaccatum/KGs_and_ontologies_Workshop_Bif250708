@@ -1,13 +1,13 @@
 # KGs_and_ontologies_Workshop_Bif250708
 Documents for BIF retreat workshop 2025
 
-## Instructions / Handout
+# Instructions / Handout
 
 This is a list of resources and descriptions of tasks for the Bioinformatics group retreat 2025 workshop: “Knowledge Graphs and Ontologies”
 It is possible to access all intermediate files in case a download or registration fails.
 
 # Part 1: Editing ontologies in Protégé 
-#### Resources: 
+## Resources: 
 -	Protégé website: https://protege.stanford.edu/ 
 -	Webprotege (Web application): https://webprotege.stanford.edu 
 -	Protégé Wiki: https://protegewiki.stanford.edu/wiki/WebProtege
@@ -46,7 +46,7 @@ Example dataset: https://platform.ontotext.com/semantic-objects/_downloads/20439
 
 
 ## 7. Edit ontologies:
-### For instance, create class
+### For instance, create a class
 
 
 ![image](https://github.com/user-attachments/assets/f9f1a81a-82f7-4739-a8aa-dd0f299f8051)
@@ -57,6 +57,10 @@ Example dataset: https://platform.ontotext.com/semantic-objects/_downloads/20439
 ## 8. Save and download edited RDF file.
 
 
+![image](https://github.com/user-attachments/assets/cbff5fac-1674-4bb3-9a58-f5f454b23c1e)
+
+
+___________________________________________________________________
 
 # Part 2: Constructing a knowledge graph on GraphDB
 #### Resources: 
