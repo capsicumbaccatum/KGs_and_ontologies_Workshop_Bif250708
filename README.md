@@ -11,9 +11,10 @@ It is possible to access all intermediate files in case a download or registrati
 -	Protégé website: https://protege.stanford.edu/ 
 -	Webprotege (Web application): https://webprotege.stanford.edu 
 -	Protégé Wiki: https://protegewiki.stanford.edu/wiki/WebProtege
--	The example StarWars RDF (.ttl format): Included in this repository, or available via: 
-https://platform.ontotext.com/semantic-objects/datasets/star-wars.html & directly via this link: https://platform.ontotext.com/semantic-objects/_downloads/2043955fe25b183f32a7f6b6ba61d5c2/SWAPI-WD-data.ttl 
-- Alternatively if account setup fails: Access to Weprotege project (public): https://webprotege.stanford.edu/#projects/2afb89d2-aefc-4a3e-a2fc-4103358eb25a/edit/Classes?selection=Class(%3Chttp://webprotege.stanford.edu/RD2y9QBhwcICRZMsbvVDskC%3E) 
+-	The example StarWars RDF (.ttl format): Included in this repository, or 
+      - Including a description here: https://platform.ontotext.com/semantic-objects/datasets/star-wars.html
+      - Directly via this link: https://platform.ontotext.com/semantic-objects/_downloads/2043955fe25b183f32a7f6b6ba61d5c2/SWAPI-WD-data.ttl 
+- Alternatively, if account setup fails - Access to Weprotege project (public): https://webprotege.stanford.edu/#projects/2afb89d2-aefc-4a3e-a2fc-4103358eb25a/edit/Classes?selection=Class(%3Chttp://webprotege.stanford.edu/RD2y9QBhwcICRZMsbvVDskC%3E) 
 
 ## 1. Sign up for an account on Webprotege:
 
